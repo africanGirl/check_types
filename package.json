@@ -1,0 +1,19 @@
+{
+  "name": "check_types",
+  "version": "1.0.0",
+  "description": "CODING ACADEMY by Epitech - Session of Feb 2017 - Node JS pool - Day 01 - Exercise 06: very first module",
+  "main": "check_types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/africanGirl/check_types.git"
+  },
+  "author": "Nadia Nwafo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/africanGirl/check_types/issues"
+  },
+  "homepage": "https://github.com/africanGirl/check_types#readme"
+}
